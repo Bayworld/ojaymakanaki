@@ -47,6 +47,8 @@ body, html {
 
     .centered-text {
         font-size: 55px;
+        top: 60%;
+        left: 50%;
       }
   }
 
